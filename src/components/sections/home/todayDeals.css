@@ -1,0 +1,15 @@
+
+
+
+
+/* Swiper slides responsiveness */
+@media (max-width: 767px) {
+  .swiper-slide {
+    width: auto !important;
+    flex-shrink: 0;
+  }
+
+  .swiper-wrapper {
+    gap: 10px;
+  }
+}
